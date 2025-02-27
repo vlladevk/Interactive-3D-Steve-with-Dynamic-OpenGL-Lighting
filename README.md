@@ -22,4 +22,7 @@ Lighting System:
 Point light (GL_LIGHT0)
 
 Adjustable spotlight (angle/intensity via GL_LIGHT1)
+
+
+
 ![image](https://github.com/user-attachments/assets/27a0a516-ac1e-4ad3-ae1b-a501880b21b5)
